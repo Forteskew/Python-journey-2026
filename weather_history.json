@@ -1,0 +1,36 @@
+[
+    {
+        "timestamp": "11.04.2026 00:21",
+        "city": "Пенза",
+        "country": "Россия",
+        "temperature": null
+    },
+    {
+        "timestamp": "11.04.2026 00:21",
+        "city": "пенза"
+    },
+    {
+        "timestamp": "11.04.2026 00:21",
+        "city": "Санкт-Петербург",
+        "country": "Россия",
+        "temperature": null
+    },
+    {
+        "timestamp": "11.04.2026 00:21",
+        "city": "санкт-петербург"
+    },
+    {
+        "timestamp": "11.04.2026 00:21",
+        "city": "Лондон",
+        "country": "Британия",
+        "temperature": null
+    },
+    {
+        "timestamp": "11.04.2026 00:21",
+        "city": "лондон"
+    },
+    {
+        "timestamp": "11.04.2026 00:21",
+        "city": "нью йорк"
+    }
+]
